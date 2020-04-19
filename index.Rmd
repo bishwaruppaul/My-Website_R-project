@@ -4,8 +4,6 @@ title: "About"
 
 ----
 
-<br>
-
 ```{r, echo=F, out.width="30%", fig.align='center'}
 imgpath <- "docs/bishwarup_paul.jpg"
 library(knitr)

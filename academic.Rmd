@@ -3,3 +3,65 @@ title: "Academic activities"
 ---
 
 ----
+## Peer review for Journals
+
+* Insectes Sociaux
+<br><br>
+
+## Participation in events
+
+* Conducted **Basics of Working with R** workshop during the conference Understanding Behaviour, IISER Kolkata, 2019.
+
+* Acted as a member of the organizing committee and a volunteer for organizing **Understanding Behaviour conference**, IISER Kolkata, 2019.
+
+* Acted as a volunteer for organizing **Ambassadors of Evolution** workshop, funded by **ESEB (European Society for Evolutionary Biology) Outreach Initiative**, IISER Kolkata, 2017.
+<br><br>
+
+## Teaching Assistantship
+
+* **Organismal Biology and Evolution (Theory)** for integrated BS-MS 1st year, IISER Kolkata, 2018.
+
+* **Animal behaviour (Laboratory)** for integrated BS-MS 4th year and Integrated Ph.D. 2nd year, IISER Kolkata, 2016.
+
+* **Ecology and behaviour (Laboratory)** for integrated BS-MS 3rd year and Integrated Ph.D. 1st year, IISER Kolkata, 2016.
+
+* **Evolution (Theory)** for integrated BS-MS 1st year, IISER Kolkata, 2015.
+
+* **Evolution (Theory)** for integrated BS-MS 1st year, IISER Kolkata, 2014.
+<br><br>
+
+## Conferences and workshops
+
+* **National Symposium on Avian Biology**, 2019, IISER Tirupati, India.
+
+* **Understanding Behaviour**, 2019, IISER Kolkata, India. [<a href='docs/understanding_behaviour_2019_poster.pdf' target='_blank'>Speed talk-cum-poster</a>]
+
+* **European Conference on Behavioural Biology (ECBB)**, 2018, Liverpool, United Kingdom [<a href='docs/ECBB_2018_poster.pdf' target='_blank'>Poster</a>]
+
+* **Frontiers in Modern Biology (FIMB)**, 2018, IISER Kolkata, India. [<a href='docs/FIMB_2018_Poster.pdf' target='_blank'>Poster</a>]
+
+* **International Conference in Zoological Sciences and Ants (11th ANeT)**, 2017, Punjabi University, Patiala, India. [<a href='docs/ANET_2017_talk.pdf' target='_blank'>Talk</a>]
+
+* **First DST-SERB School on Chemical Ecology**, 2017, NCBS, Bengaluru, India.
+
+* **YETI (Young Ecologists Talk and Interact)**, 2017, Tezpur University, Assam, India. [<a href='docs/YETI_2017_poster.pdf' target='_blank'>Poster</a>]
+
+* **Speciation and the Web of Life**, 2016, IISER Thiruvanathapuram, India.
+
+* **I-BEE (India-Behaviour, Ecology & Evolution)**, 2016, Corbett National Park, Uttarakhand, India.[<a href='docs/IBEE_2016_talk.pdf' target='_blank'>Talk</a>]
+
+* **Frontiers in Modern Biology (FIMB)**, 2015, IISER Kolkata, India. [<a  href='docs/NCEE_2015_poster.pdf' target='_blank'>Poster</a>]
+
+* **National Conference on Ethology and Evolution (NCEE) (39th Annual Meeting of Ethological Society of India)**, 2015, IISER Mohali, India. [<a  href='docs/NCEE_2015_poster.pdf' target='_blank'>Poster</a>]
+
+* **SERB School in Neuroscience, 8th Edition (Brain Circuits)**, 2014, IISER Pune, India.
+
+* **Frontiers in Modern Biology (FIMB)**, 2013, IISER Kolkata, India. [<a href='docs/FIMB_2013_poster.pdf' target='_blank'>Poster</a>]
+
+* **Being Social**, 2013, IISc, India.
+
+* **Frontiers in Modern Biology (FIMB)**, 2012, IISER Kolkata, India.
+
+* **Microbiology: Development and Challenges in Basic and Applied Research** (UGC Sponsored Nantional Seminar), 2011, Ramakrishna Mission Vidyamandira, India.
+
+* **Microbiology: An Environmental Perspective** (UGC Sponsored Nantional Seminar), 2008, Ramakrishna Mission Vidyamandira, India.
