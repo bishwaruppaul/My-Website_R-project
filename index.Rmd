@@ -4,16 +4,23 @@ title: "About"
 
 ----
 
-```{r, echo=F, out.width="30%", fig.align='center'}
+## Hi, my name is Bishwarup Paul.
+<br>
+
+:::: {style="display: flex;"} 
+
+::: {.column width="25%"}
+```{r, echo=F, out.width="100%", fig.align='center'}
 imgpath <- "docs/bishwarup_paul.jpg"
 library(knitr)
 include_graphics(imgpath)
 ```
+:::
 
-<br>
+::: {.column width="5%"}
+:::
 
-## Hi, my name is Bishwarup Paul.
-
+::: {.column width="70%"}
 I am a research scholar, interested in studying the behavioural ecology, evolution and cognition of group-living and social animals.
 
 I am currently working as a postdoctoral research fellow in the Department of Biology, IISER Tirupati, studying the behavioural ecology of Indian squirrels.
@@ -21,6 +28,9 @@ I am currently working as a postdoctoral research fellow in the Department of Bi
 I studied the behavioural ecology of ants for my PhD thesis in the Department of Biological Sciences, IISER Kolkata. I investigated different aspects of the behaviour of brood theft in an ant species.
 
 Apart from research, I keep myself busy in a lot of other activities. Painting is my hobby, and currently I am experimenting with digital media. In my leisure time, I try to learn coding and programming languages. I am very interested in data science and science communication, and have started writing blogs.
+:::
+
+::::
 
 ----
 
