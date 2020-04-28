@@ -2,6 +2,11 @@
 title: "Publications"
 ---
 
+<style>
+body {
+text-align: justify}
+</style>
+
 ----
 
 ## Published

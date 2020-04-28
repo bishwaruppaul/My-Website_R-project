@@ -2,6 +2,11 @@
 title: "Academic activities"
 ---
 
+<style>
+body {
+text-align: justify}
+</style>
+
 ----
 ## Peer review for Journals
 

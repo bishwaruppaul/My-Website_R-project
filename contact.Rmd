@@ -2,6 +2,11 @@
 title: "Contact"
 ---
 
+<style>
+body {
+text-align: justify}
+</style>
+
 ----
 
 :::: {style="display: flex;"} 
