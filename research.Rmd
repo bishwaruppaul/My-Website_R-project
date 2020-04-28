@@ -4,3 +4,56 @@ title: "Research"
 
 ----
 
+## Interest
+
+I am interested in studying the behavioural ecology of group-living and social animals. I am particularly fascinated by the impact of interactions between individuals and group-dynamics on decision-making and life history strategies, and plan to study behaviour, personality and cognition of the groups/socities.<br><br>
+
+## Experience  
+
+:::: {style="display: flex;"} 
+
+::: {.column width="40%"}
+```{r, echo=F, out.width="100%", fig.align='center'}
+imgpath <- "docs/squirrel_photo.png"
+library(knitr)
+include_graphics(imgpath)
+```
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+### Postdoctoral research 
+#### IISER Tirupati | Advisor: Dr. Nandini Rajamani
+<br>
+**Behavioural Ecology of Indian squirrels.**  
+Investigating the impact of urbanization on the behaviour and personality of Indian palm squirrels. Predicting the current distribution and forecasting the future distribution of several squirrel species. Meta-analysis for predicting the life history traits important for adapting to urbanization.
+:::
+
+::::
+
+<br>
+
+:::: {style="display: flex;"} 
+
+::: {.column width="40%"}
+```{r, echo=F, out.width="100%", fig.align='center'}
+imgpath <- "docs/ant_photo.png"
+library(knitr)
+include_graphics(imgpath)
+```
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+### Doctoral dissertation
+#### IISER Kolkata | Advisor: Prof. Sumana Annagiri
+<br>
+**Facets of brood theft in a tropical ant *Diacamma indicum*.**  
+Investigation of the behaviour of intraspecific brood theft in the Indian queenless ant. Detailed study of the mechanism of theft and defence against theft. Individual-level assessment of behavioural modification. Investigation of the formation of memory and its importance for brood theft.
+:::
+
+::::
