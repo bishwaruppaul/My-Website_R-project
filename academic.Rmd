@@ -37,6 +37,8 @@ text-align: justify}
 
 ## Conferences and workshops
 
+* **virtual International Statistical Ecology Conference**, 2020 (vISEC2020), Organized by UNSW Sydney, Australia.
+
 * **National Symposium on Avian Biology**, 2019, IISER Tirupati, India.
 
 * **Understanding Behaviour**, 2019, IISER Kolkata, India. [<a href='docs/understanding_behaviour_2019_poster.pdf' target='_blank'>Speed talk-cum-poster</a>]
