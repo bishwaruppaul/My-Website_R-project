@@ -8,12 +8,12 @@ text-align: justify}
 </style>
 
 ----
-## Peer review for Journals
+## Peer Review for Journals
 
 * Insectes Sociaux
 <br><br>
 
-## Participation in events
+## Participation in Events
 
 * Conducted **Basics of Working with R** workshop during the conference Understanding Behaviour, IISER Kolkata, 2019.
 
@@ -22,53 +22,60 @@ text-align: justify}
 * Acted as a volunteer for organizing **Ambassadors of Evolution** workshop, funded by **ESEB (European Society for Evolutionary Biology) Outreach Initiative**, IISER Kolkata, 2017.
 <br><br>
 
-## Teaching Assistantship
+## Teaching Experience
 
-* **Organismal Biology and Evolution (Theory)** for integrated BS-MS 1st year, IISER Kolkata, 2018.
+* **Teaching assistant** for a course on **Organismal Biology and Evolution** by Prof. Sumana Annagiri, IISER Kolkata, 2018.
 
-* **Animal behaviour (Laboratory)** for integrated BS-MS 4th year and Integrated Ph.D. 2nd year, IISER Kolkata, 2016.
+* **Teaching assistant** for a practical course on **Animal Behaviour** by Prof. Sumana Annagiri, IISER Kolkata, 2016.
 
-* **Ecology and behaviour (Laboratory)** for integrated BS-MS 3rd year and Integrated Ph.D. 1st year, IISER Kolkata, 2016.
+* **Teaching assistant** for a practical course on **Ecology and Behaviour** by Prof. Sumana Annagiri and Dr. Anindita Bhadra, IISER Kolkata, 2016.
 
-* **Evolution (Theory)** for integrated BS-MS 1st year, IISER Kolkata, 2015.
+* **Teaching assistant** for a course on **Organismal Biology and Evolution** by Prof. Sumana Annagiri, 2015.
 
-* **Evolution (Theory)** for integrated BS-MS 1st year, IISER Kolkata, 2014.
+* **Teaching assistant** for a course on **Organismal Biology and Evolution** by Prof. Sumana Annagiri, IISER Kolkata, 2014.
 <br><br>
 
-## Conferences and workshops
+## Conference Presentations
 
-* **virtual International Statistical Ecology Conference**, 2020 (vISEC2020), Organized by UNSW Sydney, Australia.
+* **Paul, B.** & Annagiri, S. Investigating break-ins: Intraspecific brood theft in a tropical ant. **57<sup>th</sup> Annual Conference of the Animal Behaviour Society (Virtual)**, 2020. [<a href='#' target='_blank'>Talk</a>]
 
-* **National Symposium on Avian Biology**, 2019, IISER Tirupati, India.
+* **Paul, B.** & Annagiri, S. Achieving balance between two tasks at hand: Rescue vs relocation in an ant system. **Understanding Behaviour**, 2019, IISER Kolkata, India. [<a href='docs/understanding_behaviour_2019_poster.pdf' target='_blank'>Speed talk-cum-poster</a>]
 
-* **Understanding Behaviour**, 2019, IISER Kolkata, India. [<a href='docs/understanding_behaviour_2019_poster.pdf' target='_blank'>Speed talk-cum-poster</a>]
+* **Paul, B.** & Annagiri, S. Behaviour of brood thieves in an Indian ant. **9<sup>th</sup> European Conference on Behavioural Biology (ECBB)**, 2018, Liverpool, United Kingdom. [<a href='docs/ECBB_2018_poster.pdf' target='_blank'>Poster</a>]
 
-* **European Conference on Behavioural Biology (ECBB)**, 2018, Liverpool, United Kingdom [<a href='docs/ECBB_2018_poster.pdf' target='_blank'>Poster</a>]
+* **Paul, B.** & Annagiri, S. Behaviour of brood thieves in an Indian ant. **Frontiers in Modern Biology (FIMB)**, 2018, IISER Kolkata, India. [<a href='docs/FIMB_2018_Poster.pdf' target='_blank'>Poster</a>]
 
-* **Frontiers in Modern Biology (FIMB)**, 2018, IISER Kolkata, India. [<a href='docs/FIMB_2018_Poster.pdf' target='_blank'>Poster</a>]
+* **Paul, B.** & Annagiri, S. Mechanism of brood theft in an Indian ant. **International Conference in Zoological Sciences and Ants (11<sup>th</sup> ANeT)**, 2017, Punjabi University, India. [<a href='docs/ANET_2017_talk.pdf' target='_blank'>Talk</a>]
 
-* **International Conference in Zoological Sciences and Ants (11th ANeT)**, 2017, Punjabi University, Patiala, India. [<a href='docs/ANET_2017_talk.pdf' target='_blank'>Talk</a>]
+* **Paul, B.** & Annagiri, S. Intraspecific brood theft in an Indian queenless
+ant. **Young Ecologists Talk and Interact (YETI)**, 2017, Tezpur University, India. [<a href='docs/YETI_2017_poster.pdf' target='_blank'>Poster</a>]
 
-* **First DST-SERB School on Chemical Ecology**, 2017, NCBS, Bengaluru, India.
+* **Paul, B.**, Paul M. & Annagiri, S. Intraspecific brood theft in an Indian
+queenless ant. **India-Behaviour, Ecology & Evolution (I-BEE)**, 2016, Corbett National Park, India. [<a href='docs/IBEE_2016_talk.pdf' target='_blank'>Talk</a>]
 
-* **YETI (Young Ecologists Talk and Interact)**, 2017, Tezpur University, Assam, India. [<a href='docs/YETI_2017_poster.pdf' target='_blank'>Poster</a>]
+* **Paul, B.**, Paul M. & Annagiri, S. Robbing thy neighbour: A study in an
+Indian queenless ant. **Frontiers in Modern Biology (FIMB)**, 2015, IISER Kolkata, India. [<a  href='docs/NCEE_2015_poster.pdf' target='_blank'>Poster</a>]
+
+* **Paul, B.**, Paul M. & Annagiri, S. Robbing thy neighbour: A study in an
+Indian queenless ant. **National Conference on Ethology and Evolution (NCEE) (39<sup>th</sup> Annual Meeting of Ethological Society of India)**, 2015, IISER Mohali, India. [<a  href='docs/NCEE_2015_poster.pdf' target='_blank'>Poster</a>]
+
+* **Paul, B.**, Paul M. & Annagiri, S. Stealing the young: A case study in the
+Indian queenless ant. **Frontiers in Modern Biology (FIMB)**, 2013, IISER Kolkata, India. [<a href='docs/FIMB_2013_poster.pdf' target='_blank'>Poster</a>]
+<br><br>
+
+## Workshops Attended
+
+* **Application of Geoinformatics in Ecological Studies**, 60<sup>th</sup> IIRS Outreach Programme, IIRS, ISRO, India.
+
+* **1<sup>st</sup> DST-SERB School on Chemical Ecology**, 2017, NCBS, India.
 
 * **Speciation and the Web of Life**, 2016, IISER Thiruvanathapuram, India.
 
-* **I-BEE (India-Behaviour, Ecology & Evolution)**, 2016, Corbett National Park, Uttarakhand, India.[<a href='docs/IBEE_2016_talk.pdf' target='_blank'>Talk</a>]
+* **SERB School in Neuroscience, 8<sup>th</sup> Edition (Brain Circuits)**, 2014, IISER Pune, India.
+<br><br>
 
-* **Frontiers in Modern Biology (FIMB)**, 2015, IISER Kolkata, India. [<a  href='docs/NCEE_2015_poster.pdf' target='_blank'>Poster</a>]
+## Memberships
 
-* **National Conference on Ethology and Evolution (NCEE) (39th Annual Meeting of Ethological Society of India)**, 2015, IISER Mohali, India. [<a  href='docs/NCEE_2015_poster.pdf' target='_blank'>Poster</a>]
+* **Ethological Society of India (ESI)** - Life Member.
 
-* **SERB School in Neuroscience, 8th Edition (Brain Circuits)**, 2014, IISER Pune, India.
-
-* **Frontiers in Modern Biology (FIMB)**, 2013, IISER Kolkata, India. [<a href='docs/FIMB_2013_poster.pdf' target='_blank'>Poster</a>]
-
-* **Being Social**, 2013, IISc, India.
-
-* **Frontiers in Modern Biology (FIMB)**, 2012, IISER Kolkata, India.
-
-* **Microbiology: Development and Challenges in Basic and Applied Research** (UGC Sponsored Nantional Seminar), 2011, Ramakrishna Mission Vidyamandira, India.
-
-* **Microbiology: An Environmental Perspective** (UGC Sponsored Nantional Seminar), 2008, Ramakrishna Mission Vidyamandira, India.
+* **Animal Behaviour Society** - 2020-2021 Annual Membership.
