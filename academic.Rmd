@@ -39,7 +39,7 @@ text-align: justify}
 
 ## Conference Presentations
 
-* **Paul, B.**, D’Souza, S., Udayraj, S., Palassery, S.A. & Rajamani, N. Modelling palm squirrel distributions with citizen science, social media and traditional data sources. **CitSci India**, 2020. [<a href='#' target='_blank'>Virtual Poster</a>]
+* **Paul, B.**, D’Souza, S., Udayraj, S., Palassery, S.A. & Rajamani, N. Modelling palm squirrel distributions with citizen science, social media and traditional data sources. **CitSci India**, 2020. [<a href='https://www.youtube.com/watch?v=46J04wwx_jg' target='_blank'>Virtual Poster</a>]
 
 * **Paul, B.** & Annagiri, S. Investigating break-ins: Intraspecific brood theft in a tropical ant. **Animal Behaviour Live: Annual Online Conference**, 2020. [<a href='https://www.youtube.com/watch?v=y-OlWCHaDcE' target='_blank'>Virtual poster</a>]
 
