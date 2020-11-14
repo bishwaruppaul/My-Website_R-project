@@ -1,5 +1,5 @@
 ---
-title: "Blog posts"
+title: "Musings"
 ---
 
 <style>
@@ -8,6 +8,8 @@ text-align: justify}
 </style>
 
 ----
+
+## Blog posts
 
 * **<a href="https://medium.com/swlh/r-notebook-for-dummies-save-and-share-results-easily-51d343a4882" target="_blank">R Notebook for dummies: save and share results easily</a>** - A simple introduction to R notebook for absolute beginners, describing how using it for saving and sharing results is superior to using word processors. [Published in <a href="https://medium.com/swlh" target="_blank">The Startup</a>]<br>
 
@@ -22,3 +24,10 @@ text-align: justify}
 ----
 
 You can visit my blog <a href="https://medium.com/@bishwarup_paul" target="_blank">here</a>.
+
+----
+
+
+## Others
+
+* **<a href="https://bishwaruppaul.github.io/ggplot2_simple_tutorial/" target="_blank">A simple yet comprehensive tutorial of plotting with ggplot2 package in R</a>** - a presentation on methods, tips and tricks of plotting with ggplot2 package in R. Written keeping both beginners as well as intermediate users in mind.
