@@ -8,19 +8,12 @@ text-align: justify}
 </style>
 
 ----
+
 ## Peer Review for Journals
 
 * Insectes Sociaux
-<br><br>
 
-## Participation in Events
-
-* Conducted **Basics of Working with R** workshop during the conference Understanding Behaviour, IISER Kolkata, 2019.
-
-* Acted as a member of the organizing committee and a volunteer for organizing **Understanding Behaviour conference**, IISER Kolkata, 2019.
-
-* Acted as a volunteer for organizing **Ambassadors of Evolution** workshop, funded by **ESEB (European Society for Evolutionary Biology) Outreach Initiative**, IISER Kolkata, 2017.
-<br><br>
+----
 
 ## Teaching Experience
 
@@ -35,7 +28,18 @@ text-align: justify}
 * **Teaching assistant** for **Organismal Biology and Evolution** by Prof. Sumana Annagiri, IISER Kolkata, 2015.
 
 * **Teaching assistant** for **Organismal Biology and Evolution** by Prof. Sumana Annagiri, IISER Kolkata, 2014.
-<br><br>
+
+----
+
+## Participation in Events
+
+* Conducted **Basics of Working with R** workshop during the conference Understanding Behaviour, IISER Kolkata, 2019.
+
+* Acted as a member of the organizing committee and a volunteer for organizing **Understanding Behaviour conference**, IISER Kolkata, 2019.
+
+* Acted as a volunteer for organizing **Ambassadors of Evolution** workshop, funded by **ESEB (European Society for Evolutionary Biology) Outreach Initiative**, IISER Kolkata, 2017.
+
+----
 
 ## Conference Presentations
 
@@ -67,7 +71,8 @@ Indian queenless ant. **National Conference on Ethology and Evolution (NCEE) (39
 
 * **Paul, B.**, Paul M. & Annagiri, S. Stealing the young: A case study in the
 Indian queenless ant. **Frontiers in Modern Biology (FIMB)**, 2013, IISER Kolkata, India. [<a href='docs/FIMB_2013_poster.pdf' target='_blank'>Poster</a>]
-<br><br>
+
+----
 
 ## Workshops Attended
 
@@ -78,10 +83,13 @@ Indian queenless ant. **Frontiers in Modern Biology (FIMB)**, 2013, IISER Kolkat
 * **Speciation and the Web of Life**, 2016, IISER Thiruvanathapuram, India.
 
 * **SERB School in Neuroscience, 8<sup>th</sup> Edition (Brain Circuits)**, 2014, IISER Pune, India.
-<br><br>
+
+----
 
 ## Memberships
 
 * **Ethological Society of India (ESI)** - Life Member.
 
 * **Animal Behaviour Society** - 2020-2021 Annual Membership.
+
+----

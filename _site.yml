@@ -1,10 +1,10 @@
 name: "Personal Website"
 
 navbar:
-  title: "Bishwarup Paul"
+  title: ""
   
   right:
-    - text: "Home"
+    - text: "About"
       href: index.html
     - text: "Research"
       href: research.html
@@ -22,5 +22,6 @@ output:
     theme: flatly
     highlight: textmate
     css: style.css
+    anchor_sections: false
     includes:
       after_body: footer.html

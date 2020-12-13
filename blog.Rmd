@@ -31,3 +31,5 @@ You can visit my blog <a href="https://medium.com/@bishwarup_paul" target="_blan
 ## Others
 
 * **<a href="https://bishwaruppaul.github.io/ggplot2_simple_tutorial/" target="_blank">A simple yet comprehensive tutorial of plotting with ggplot2 package in R</a>** - a presentation on methods, tips and tricks of plotting with ggplot2 package in R. Written keeping both beginners as well as intermediate users in mind.
+
+----
