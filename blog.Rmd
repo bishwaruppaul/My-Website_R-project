@@ -30,6 +30,8 @@ You can visit my blog <a href="https://medium.com/@bishwarup_paul" target="_blan
 
 ## Others
 
+* **<a href="docs/fitting_distributions_in_R.pdf" target="_blank">Fitting distributions in R</a>** - a simple tutorial for assessing the fit of data to theoretical distributions.
+
 * **<a href="https://bishwaruppaul.github.io/ggplot2_simple_tutorial/" target="_blank">A simple yet comprehensive tutorial of plotting with ggplot2 package in R</a>** - a presentation on methods, tips and tricks of plotting with ggplot2 package in R. Written keeping both beginners as well as intermediate users in mind.
 
 ----
