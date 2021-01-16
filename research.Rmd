@@ -19,6 +19,31 @@ I am interested in studying the behavioural ecology of group-living and social a
 
 ::: {.column width="40%"}
 ```{r, echo=F, out.width="100%", fig.align='center'}
+imgpath <- "docs/TR_photo.jpg"
+library(knitr)
+include_graphics(imgpath)
+```
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+### Postdoctoral research 
+#### IISER Kolkata | Advisor: Prof. Sumana Annagiri
+<br>
+**Behaviour and cognition of ants**  
+Investigating the role of memory for navigation in the context of nest relocation in a primitively eusocial ant *Diacamma indicum*. Studying the formation of working and long-term memory, as well as interrupting consolidation of memory to cause reduction in navigational efficiency in order to study the task performance and group dynamics.
+:::
+
+::::
+
+<br>
+
+:::: {style="display: flex;"} 
+
+::: {.column width="40%"}
+```{r, echo=F, out.width="100%", fig.align='center'}
 imgpath <- "docs/squirrel_photo.png"
 library(knitr)
 include_graphics(imgpath)
