@@ -11,7 +11,7 @@ text-align: justify}
 
 ## Blog posts
 
-* **<a href="https://medium.com/swlh/r-notebook-for-dummies-save-and-share-results-easily-51d343a4882?sk=6a629b6b34fd68be48f1448fcb2ef496" target="_blank">My foray into digital painting</a>** - My experiences during the journey into the world of digital painting and the story of how I made progress.
+* **<a href="https://bishwarup-paul.medium.com/my-foray-into-digital-painting-20725988f31f" target="_blank">My foray into digital painting</a>** - My experiences during the journey into the world of digital painting and the story of how I made progress.
 
 * **<a href="https://medium.com/swlh/r-notebook-for-dummies-save-and-share-results-easily-51d343a4882?sk=6a629b6b34fd68be48f1448fcb2ef496" target="_blank">R Notebook for dummies: save and share results easily</a>** - A simple introduction to R notebook for absolute beginners, describing how using it for saving and sharing results is superior to using word processors. [Published in <a href="https://medium.com/swlh" target="_blank">The Startup</a>]<br>
 
