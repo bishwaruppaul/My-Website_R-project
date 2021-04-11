@@ -32,7 +32,7 @@ I studied the behaviour of ants for my PhD thesis in the Department of Biologica
 
 Apart from research, I keep myself busy in a lot of other activities. Painting is my hobby, and currently I am experimenting with digital media. In my leisure time, I try to learn coding and programming languages. I am very interested in data science and science communication, and have started writing blogs.
 
-#### <a href="docs/CV_BishwarupPaul.pdf" target="_blank">Download Curriculum Vitae</a>
+#### <a href="docs/CV_Bishwarup_Paul.pdf" target="_blank">Download Curriculum Vitae</a>
 
 :::
 
