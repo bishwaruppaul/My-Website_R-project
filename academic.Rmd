@@ -33,6 +33,8 @@ text-align: justify}
 
 ## Participation in Events
 
+* Acted as a moderator for a session of the workshop **SciComm for Scientists**, IISER Kolkata, 2021.
+
 * Conducted **Basics of Working with R** workshop during the conference Understanding Behaviour, IISER Kolkata, 2019.
 
 * Acted as a member of the organizing committee and a volunteer for organizing **Understanding Behaviour conference**, IISER Kolkata, 2019.
