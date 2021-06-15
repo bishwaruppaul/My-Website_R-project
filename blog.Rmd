@@ -11,6 +11,8 @@ text-align: justify}
 
 ## Blog posts
 
+* **<a href="https://medium.com/nerd-for-tech/an-analysis-of-best-picture-oscar-winners-using-r-2de5fd37bc87" target="_blank">An analysis of ‘Best Picture’ Oscar winners using R</a>** - Scraping data from IMDb list and exploratory data analysis using R. [Published in <a href="https://medium.com/nerd-for-tech" target="_blank">Nerd For Tech</a>]<br>
+
 * **<a href="https://bishwarup-paul.medium.com/a-guide-to-using-r-in-sublime-text-27f78b33f872" target="_blank">A guide to using R in Sublime Text</a>** - A guide to setting up Sublime Text code editor as an IDE for R.
 
 * **<a href="https://bishwarup-paul.medium.com/my-foray-into-digital-painting-20725988f31f" target="_blank">My foray into digital painting</a>** - My experiences during the journey into the world of digital painting and the story of how I made progress.
