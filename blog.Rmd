@@ -11,6 +11,8 @@ text-align: justify}
 
 ## Blog posts
 
+* **<a href="https://bishwarup-paul.medium.com/the-tale-of-a-peculiar-theft-54a49075a2e0" target="_blank">The tale of a peculiar theft</a>** - The peculiar theft of earphone tips by an elusive creature.
+
 * **<a href="https://medium.com/nerd-for-tech/an-analysis-of-best-picture-oscar-winners-using-r-2de5fd37bc87" target="_blank">An analysis of ‘Best Picture’ Oscar winners using R</a>** - Scraping data from IMDb list and exploratory data analysis using R. [Published in <a href="https://medium.com/nerd-for-tech" target="_blank">Nerd For Tech</a>]<br>
 
 * **<a href="https://bishwarup-paul.medium.com/a-guide-to-using-r-in-sublime-text-27f78b33f872" target="_blank">A guide to using R in Sublime Text</a>** - A guide to setting up Sublime Text code editor as an IDE for R.
@@ -29,15 +31,6 @@ text-align: justify}
 
 ----
 
-You can visit my blog <a href="https://bishwarup-paul.medium.com/" target="_blank">here</a>.
-
-----
-
-
-## Others
-
-* **<a href="docs/fitting_distributions_in_R.pdf" target="_blank">Fitting distributions in R</a>** - a simple tutorial for assessing the fit of data to theoretical distributions.
-
-* **<a href="https://bishwaruppaul.github.io/ggplot2_simple_tutorial/" target="_blank">A simple yet comprehensive tutorial of plotting with ggplot2 package in R</a>** - a presentation on methods, tips and tricks of plotting with ggplot2 package in R. Written keeping both beginners as well as intermediate users in mind.
+*You can visit my blog <a href="https://bishwarup-paul.medium.com/" target="_blank">here</a>.*
 
 ----
