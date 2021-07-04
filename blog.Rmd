@@ -11,23 +11,35 @@ text-align: justify}
 
 ## Blog posts
 
-* **<a href="https://bishwarup-paul.medium.com/the-tale-of-a-peculiar-theft-54a49075a2e0" target="_blank">The tale of a peculiar theft</a>** - The peculiar theft of earphone tips by an elusive creature.
+* **<a href="https://bishwarup-paul.medium.com/the-tale-of-a-peculiar-theft-54a49075a2e0" target="_blank">The tale of a peculiar theft</a>**  
+  The peculiar theft of earphone tips by an elusive creature
 
-* **<a href="https://medium.com/nerd-for-tech/an-analysis-of-best-picture-oscar-winners-using-r-2de5fd37bc87" target="_blank">An analysis of ‘Best Picture’ Oscar winners using R</a>** - Scraping data from IMDb list and exploratory data analysis using R. [Published in <a href="https://medium.com/nerd-for-tech" target="_blank">Nerd For Tech</a>]<br>
+* **<a href="https://medium.com/nerd-for-tech/an-analysis-of-best-picture-oscar-winners-using-r-2de5fd37bc87" target="_blank">An analysis of ‘Best Picture’ Oscar winners using R</a>**  
+  Scraping data from IMDb list and exploratory data analysis using R  
+  Published in <a href="https://medium.com/nerd-for-tech" target="_blank">Nerd For Tech</a>
 
-* **<a href="https://bishwarup-paul.medium.com/a-guide-to-using-r-in-sublime-text-27f78b33f872" target="_blank">A guide to using R in Sublime Text</a>** - A guide to setting up Sublime Text code editor as an IDE for R.
+* **<a href="https://bishwarup-paul.medium.com/a-guide-to-using-r-in-sublime-text-27f78b33f872" target="_blank">A guide to using R in Sublime Text</a>**  
+  A guide to setting up Sublime Text code editor as an IDE for R.
 
-* **<a href="https://bishwarup-paul.medium.com/my-foray-into-digital-painting-20725988f31f" target="_blank">My foray into digital painting</a>** - My experiences during the journey into the world of digital painting and the story of how I made progress.
+* **<a href="https://bishwarup-paul.medium.com/my-foray-into-digital-painting-20725988f31f" target="_blank">My foray into digital painting</a>**  
+  My experiences during the journey into the world of digital painting and the story of how I made progress.
 
-* **<a href="https://medium.com/swlh/r-notebook-for-dummies-save-and-share-results-easily-51d343a4882?sk=6a629b6b34fd68be48f1448fcb2ef496" target="_blank">R Notebook for dummies: save and share results easily</a>** - A simple introduction to R notebook for absolute beginners, describing how using it for saving and sharing results is superior to using word processors. [Published in <a href="https://medium.com/swlh" target="_blank">The Startup</a>]<br>
+* **<a href="https://medium.com/swlh/r-notebook-for-dummies-save-and-share-results-easily-51d343a4882?sk=6a629b6b34fd68be48f1448fcb2ef496" target="_blank">R Notebook for dummies: save and share results easily</a>**  
+  A simple introduction to R notebook for absolute beginners, describing how using it for saving and sharing results is superior to using word processors.  
+  Published in <a href="https://medium.com/swlh" target="_blank">The Startup</a>
 
-* **<a href="https://bishwarup-paul.medium.com/why-i-love-manjaro-144841982ece?sk=96fef3f5afaa66f2db3996f602545689" target="_blank">Why I love Manjaro</a>** - A post describing the reasons why I love using the Manjaro Linux distribution.<br> 
+* **<a href="https://bishwarup-paul.medium.com/why-i-love-manjaro-144841982ece?sk=96fef3f5afaa66f2db3996f602545689" target="_blank">Why I love Manjaro</a>**  
+  A post describing the reasons why I love using the Manjaro Linux distribution.<br> 
 
-* **<a href="https://medium.com/analytics-vidhya/understanding-data-structures-in-r-793d7ce79073?sk=e07cb36c7a23c7d4b06f16e0bf67d37e" target="_blank">Understanding data types and structures in R</a>** - An introduction to the commonly used data types and structures in R, for absolute beginners. [Published in <a href="https://medium.com/analytics-vidhya" target="_blank">Analytics Vidhya</a>]<br>
+* **<a href="https://medium.com/analytics-vidhya/understanding-data-structures-in-r-793d7ce79073?sk=e07cb36c7a23c7d4b06f16e0bf67d37e" target="_blank">Understanding data types and structures in R</a>**  
+  An introduction to the commonly used data types and structures in R, for absolute beginners.  
+  Published in <a href="https://medium.com/analytics-vidhya" target="_blank">Analytics Vidhya</a>
 
-* **<a href="https://bishwarup-paul.medium.com/catching-red-handed-the-thieves-in-an-indian-ant-society-9182124d546?sk=9b2aeb66ef5f338ea9d4d547112eeee7" target="_blank">Catching red-handed the thieves in an Indian ant society </a>** - A popular science story on one of my research articles on brood theft in ants.<br>
+* **<a href="https://bishwarup-paul.medium.com/catching-red-handed-the-thieves-in-an-indian-ant-society-9182124d546?sk=9b2aeb66ef5f338ea9d4d547112eeee7" target="_blank">Catching red-handed the thieves in an Indian ant society </a>**  
+  A popular science story on one of my research articles on brood theft in ants
 
-* **<a href="https://bishwarup-paul.medium.com/easy-way-to-import-data-from-spreadsheet-to-r-d20cdf2da79f?sk=2e823c9bf3bc4552feffc0e09873657b" target="_blank">Easy way to import data from a spreadsheet to R</a>** - a post describing a shorcut method to import data from spreadsheets into R, and describing when to use the shortcut compared to traditional methods.<br>
+* **<a href="https://bishwarup-paul.medium.com/easy-way-to-import-data-from-spreadsheet-to-r-d20cdf2da79f?sk=2e823c9bf3bc4552feffc0e09873657b" target="_blank">Easy way to import data from a spreadsheet to R</a>**  
+  A post describing a shorcut method to import data from spreadsheets into R, and describing when to use the shortcut compared to traditional methods
 
 ----
 

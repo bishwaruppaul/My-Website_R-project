@@ -11,87 +11,156 @@ text-align: justify}
 
 ## Peer Review for Journals
 
-* Insectes Sociaux
+* **<a>Insectes Sociaux</a>**
 
 ----
 
 ## Teaching Experience
 
-* **Co-instructor** for **Behavioural Ecology** with Dr. Nandini Rajamani, IISER Tirupati, 2020.
+* **<a>Behavioural Ecology</a>**  
+  Co-instructor with Dr. Nandini Rajamani  
+  2020  
+  IISER Tirupati
 
-* **Teaching assistant** for **Organismal Biology and Evolution** by Prof. Sumana Annagiri, IISER Kolkata, 2018.
+* **<a>Organismal Biology and Evolution</a>**  
+  Teaching Assistant for Prof. Sumana Annagiri  
+  2018  
+  IISER Kolkata
 
-* **Teaching assistant** for **Animal Behaviour (practical)** by Prof. Sumana Annagiri, IISER Kolkata, 2016.
+* **<a>Animal Behaviour (Lab)</a>**  
+  Teaching Assistant for Prof. Sumana Annagiri  
+  2016  
+  IISER Kolkata
 
-* **Teaching assistant** for **Ecology and Behaviour (practical)** by Prof. Sumana Annagiri and Dr. Anindita Bhadra, IISER Kolkata, 2016.
+* **<a>Ecology and Behaviour (Lab)</a>**  
+  Teaching Assistant for Prof. Sumana Annagiri and Dr. Anindita Bhadra  
+  2016  
+  IISER Kolkata
 
-* **Teaching assistant** for **Organismal Biology and Evolution** by Prof. Sumana Annagiri, IISER Kolkata, 2015.
+* **<a>Organismal Biology and Evolution</a>**  
+  Teaching Assistant for Prof. Sumana Annagiri  
+  2015  
+  IISER Kolkata
 
-* **Teaching assistant** for **Organismal Biology and Evolution** by Prof. Sumana Annagiri, IISER Kolkata, 2014.
+* **<a>Organismal Biology and Evolution</a>**  
+  Teaching Assistant for Prof. Sumana Annagiri  
+  2014  
+  IISER Kolkata
 
 ----
 
 ## Participation in Events
 
-* Acted as a moderator for a session of the workshop **SciComm for Scientists**, IISER Kolkata, 2021.
+* <a>**Basics of Working with R** workshop</a>  
+  Co-conducted with Dr. Manabi Paul & Dr. Rubina Mondal  
+  2019  
+  Understanding Behaviour, IISER Kolkata
 
-* Conducted **Basics of Working with R** workshop during the conference Understanding Behaviour, IISER Kolkata, 2019.
+* <a>**Understanding Behaviour** conference</a>  
+  Member of the Organizing Committee  
+  2019  
+  IISER Kolkata
 
-* Acted as a member of the organizing committee and a volunteer for organizing **Understanding Behaviour conference**, IISER Kolkata, 2019.
-
-* Acted as a volunteer for organizing **Ambassadors of Evolution** workshop, funded by **ESEB (European Society for Evolutionary Biology) Outreach Initiative**, IISER Kolkata, 2017.
+* <a>**Ambassadors of Evolution** workshop</a>  
+  <a>ESEB (European Society for Evolutionary Biology) Outreach Initiative</a>   
+  Student Volunteer  
+  2017  
+  IISER Kolkata
 
 ----
 
 ## Conference Presentations
 
-* **Paul, B.**, D’Souza, S., Udayraj, S., Palassery, S.A. & Rajamani, N. Modelling palm squirrel distributions with citizen science, social media and traditional data sources. **CitSci India**, 2020. [<a href='https://www.youtube.com/watch?v=46J04wwx_jg' target='_blank'>Virtual Poster</a>]
+* **<a href='https://www.youtube.com/watch?v=46J04wwx_jg' target='_blank'>Modelling palm squirrel distributions with citizen science, social media and traditional data sources</a>**  
+  Bishwarup Paul, Senan D'Souza, Swati Udayraj, Aravind P.S. & Nandini Rajamani  
+  2020  
+  CitSci India
 
-* **Paul, B.** & Annagiri, S. Investigating break-ins: Intraspecific brood theft in a tropical ant. **Animal Behaviour Live: Annual Online Conference**, 2020. [<a href='https://www.youtube.com/watch?v=y-OlWCHaDcE' target='_blank'>Virtual poster</a>]
+* **<a href='https://www.youtube.com/watch?v=y-OlWCHaDcE' target='_blank'>Investigating break-ins: Intraspecific brood theft in a tropical ant</a>**  
+  Bishwarup Paul & Sumana Annagiri  
+  2020  
+  Animal Behaviour Live: Annual Online Conference 
 
-* **Paul, B.** & Annagiri, S. Investigating break-ins: Intraspecific brood theft in a tropical ant. **57<sup>th</sup> Annual Conference of the Animal Behaviour Society (Virtual)**, 2020. [<a href='https://www.youtube.com/watch?v=zT7VRbIiBLs' target='_blank'>Talk</a>]
+* **<a href='https://www.youtube.com/watch?v=zT7VRbIiBLs' target='_blank'>Intraspecific brood theft in a tropical ant</a>**  
+  Bishwarup Paul & Sumana Annagiri  
+  2020  
+  57<sup>th</sup> Annual Conference of the Animal Behaviour Society
 
-* **Paul, B.** & Annagiri, S. Achieving balance between two tasks at hand: Rescue vs relocation in an ant system. **Understanding Behaviour**, 2019, IISER Kolkata, India. [<a href='docs/understanding_behaviour_2019_poster.pdf' target='_blank'>Speed talk-cum-poster</a>]
+* **<a href='docs/understanding_behaviour_2019_poster.pdf' target='_blank'>Achieving balance between two tasks at hand: Rescue vs relocation in an ant system</a>**  
+  Bishwarup Paul & Sumana Annagiri  
+  2019  
+  Understanding Behaviour, IISER Kolkata
 
-* **Paul, B.** & Annagiri, S. Behaviour of brood thieves in an Indian ant. **9<sup>th</sup> European Conference on Behavioural Biology (ECBB)**, 2018, Liverpool, United Kingdom. [<a href='docs/ECBB_2018_poster.pdf' target='_blank'>Poster</a>]
+* **<a href='docs/ECBB_2018_poster.pdf' target='_blank'>Behaviour of brood thieves in an Indian ant</a>**  
+  Bishwarup Paul & Sumana Annagiri  
+  2018  
+  9<sup>th</sup> European Conference on Behavioural Biology (ECBB), Liverpool, United Kingdom.
 
-* **Paul, B.** & Annagiri, S. Behaviour of brood thieves in an Indian ant. **Frontiers in Modern Biology (FIMB)**, 2018, IISER Kolkata, India. [<a href='docs/FIMB_2018_Poster.pdf' target='_blank'>Poster</a>]
+* **<a href='docs/FIMB_2018_Poster.pdf' target='_blank'>Behaviour of brood thieves in an Indian ant</a>**  
+  Bishwarup Paul & Sumana Annagiri  
+  2018  
+  Frontiers in Modern Biology (FIMB), IISER Kolkata
 
-* **Paul, B.** & Annagiri, S. Mechanism of brood theft in an Indian ant. **International Conference in Zoological Sciences and Ants (11<sup>th</sup> ANeT)**, 2017, Punjabi University, India. [<a href='docs/ANET_2017_talk.pdf' target='_blank'>Talk</a>]
+* **<a href='docs/ANET_2017_talk.pdf' target='_blank'>Mechanism of brood theft in an Indian ant</a>**  
+  Bishwarup Paul & Sumana Annagiri  
+  2017  
+  International Conference in Zoological Sciences and Ants (11<sup>th</sup> ANeT), Punjabi University
 
-* **Paul, B.** & Annagiri, S. Intraspecific brood theft in an Indian queenless
-ant. **Young Ecologists Talk and Interact (YETI)**, 2017, Tezpur University, India. [<a href='docs/YETI_2017_poster.pdf' target='_blank'>Poster</a>]
+* **<a href='docs/YETI_2017_poster.pdf' target='_blank'>Intraspecific brood theft in an Indian queenless ant</a>**  
+  Bishwarup Paul & Sumana Annagiri  
+  2017  
+  Young Ecologists Talk and Interact (YETI), Tezpur University
 
-* **Paul, B.**, Paul M. & Annagiri, S. Intraspecific brood theft in an Indian
-queenless ant. **India-Behaviour, Ecology & Evolution (I-BEE)**, 2016, Corbett National Park, India. [<a href='docs/IBEE_2016_talk.pdf' target='_blank'>Talk</a>]
+* **<a href='docs/IBEE_2016_talk.pdf' target='_blank'>Intraspecific brood theft in an Indian queenless ant</a>**  
+  Bishwarup Paul, Manabi Paul & Sumana Annagiri  
+  2016  
+  India-Behaviour, Ecology & Evolution (I-BEE), Corbett National Park
 
-* **Paul, B.**, Paul M. & Annagiri, S. Robbing thy neighbour: A study in an
-Indian queenless ant. **Frontiers in Modern Biology (FIMB)**, 2015, IISER Kolkata, India. [<a  href='docs/NCEE_2015_poster.pdf' target='_blank'>Poster</a>]
+* **<a href='docs/NCEE_2015_poster.pdf' target='_blank'>Robbing thy neighbour: A study in an Indian queenless ant</a>**  
+  Bishwarup Paul, Manabi Paul & Sumana Annagiri   
+  2015  
+  Frontiers in Modern Biology (FIMB), IISER Kolkata
 
-* **Paul, B.**, Paul M. & Annagiri, S. Robbing thy neighbour: A study in an
-Indian queenless ant. **National Conference on Ethology and Evolution (NCEE) (39<sup>th</sup> Annual Meeting of Ethological Society of India)**, 2015, IISER Mohali, India. [<a  href='docs/NCEE_2015_poster.pdf' target='_blank'>Poster</a>]
+* **<a  href='docs/NCEE_2015_poster.pdf' target='_blank'>Robbing thy neighbour: A study in an Indian queenless ant</a>**  
+  Bishwarup Paul, Manabi Paul & Sumana Annagiri  
+  2015  
+  National Conference on Ethology and Evolution (NCEE), IISER Mohali
 
-* **Paul, B.**, Paul M. & Annagiri, S. Stealing the young: A case study in the
-Indian queenless ant. **Frontiers in Modern Biology (FIMB)**, 2013, IISER Kolkata, India. [<a href='docs/FIMB_2013_poster.pdf' target='_blank'>Poster</a>]
+* **<a href='docs/FIMB_2013_poster.pdf' target='_blank'>Stealing the young: A case study in the Indian queenless ant</a>**  
+  Bishwarup Paul, Manabi Paul & Sumana Annagiri  
+  2013  
+  Frontiers in Modern Biology (FIMB), IISER Kolkata
 
 ----
 
 ## Workshops Attended
 
-* **Application of Geoinformatics in Ecological Studies**, 60<sup>th</sup> IIRS Outreach Programme, IIRS, ISRO, India.
+* <a>**Application of Geoinformatics in Ecological Studies**</a>  
+  60<sup>th</sup> IIRS Outreach Programme 
+  2020  
+  IIRS, ISRO
 
-* **1<sup>st</sup> DST-SERB School on Chemical Ecology**, 2017, NCBS, India.
+* <a>**1<sup>st</sup> DST-SERB School on Chemical Ecology**</a>  
+  2017  
+  NCBS
 
-* **Speciation and the Web of Life**, 2016, IISER Thiruvanathapuram, India.
+* <a>**Speciation and the Web of Life**</a>  
+  2016  
+  IISER Thiruvanathapuram
 
-* **SERB School in Neuroscience, 8<sup>th</sup> Edition (Brain Circuits)**, 2014, IISER Pune, India.
+* <a>**SERB School in Neuroscience**</a>  
+  8<sup>th</sup> Edition (Brain Circuits)  
+  2014  
+  IISER Pune
 
 ----
 
 ## Memberships
 
-* **Ethological Society of India (ESI)** - Life Member.
+* <a>**Ethological Society of India (ESI)**</a>  
+  Life Member
 
-* **Animal Behaviour Society** - 2020-2021 Annual Membership.
+* <a>**Animal Behaviour Society**</a>  
+  2020-2021 Annual Membership
 
 ----

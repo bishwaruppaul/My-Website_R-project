@@ -11,40 +11,71 @@ text-align: justify}
 
 ## Published
 
-* **Paul, B.** & Annagiri, S. (2019). **Caught red-handed: Behaviour of brood thieves in an Indian ant**. *Journal of Experimental Biology*, 222, jeb193755. <a href='https://jeb.biologists.org/content/222/2/jeb193755' target='_blank'>[Link]</a>
+* **<a href='https://jeb.biologists.org/content/222/2/jeb193755' target='_blank'>Caught red-handed: Behaviour of brood thieves in an Indian ant</a>**  
+  Bishwarup Paul & Sumana Annagiri  
+  2019  
+  Journal of Experimental Biology  
 
-* **Paul, B.** & Annagiri, S. (2018). **Tricks of the trade: Mechanism of brood theft in an ant**. *PLoS ONE*, 13(2), e0192144. <a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192144' target='_blank'>[Link]</a>
+* **<a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192144' target='_blank'>Tricks of the trade: Mechanism of brood theft in an ant</a>**  
+  Bishwarup Paul & Sumana Annagiri  
+  2018  
+  PLoS One
 
-* Annagiri, S., Kolay, S., **Paul, B.** & Sona, C. (2017). **Network approach to understanding the organization of and the consequence of targeted leader removal on an end-oriented task**. *Current Zoology*, 63(3), 269-277. <a href='https://academic.oup.com/cz/article/63/3/269/3057023' target='_blank'>[Link]</a>
+* **<a href='https://academic.oup.com/cz/article/63/3/269/3057023' target='_blank'>Network approach to understanding the organization of and the consequence of targeted leader removal on an end-oriented task</a>**  
+  Sumana Annagiri, Swetashree Kolay, Bishwarup Paul & Chandan Sona  
+  2017  
+  Current Zoology  
 
-* **Paul, B.**, Paul. M. & Annagiri, S. (2016). **Opportunistic brood theft in the context of colony relocation in an Indian queenless ant**. *Scientific Reports*, 6 (36166). <a href='https://www.nature.com/articles/srep36166' target='_blank'>[Link]</a>
+* **<a href='https://www.nature.com/articles/srep36166' target='_blank'>Opportunistic brood theft in the context of colony relocation in an Indian queenless ant</a>**  
+  Bishwarup Paul, Manabi Paul & Sumana Annagiri  
+  2016  
+  Scientific Reports
 
 ----
 
 ## In Review
 
-* **Paul, B.** & Annagiri, S. **Achieving a balance between brood rescue and nest relocation on facing an emergency**. 
+* **<a>Achieving a balance between brood rescue and nest relocation on facing an emergency</a>**
+  <br>Bishwarup Paul, Anwesha Acharjee, Sandip Murmu & Sumana Annagiri 
 
-* Mukherjee, I., **Paul, B.** & Annagiri, S. **Does Information of Target Nest Impact Relocation Dynamics in an Indian Ant**.
+* **<a>Does Information of Target Nest Impact Relocation Dynamics in an Indian Ant?</a>**  
+  Ishani Mukherjee, Bishwarup Paul & Sumana Annagiri
 
 ----
 
 ## Media Coverage
 
-* **Stealing from your neighbours** by Prof. Sumana Annagiri, *Imprint, St. Xavier's College, Mumbai, India*, 2021. <a href='https://heyzine.com/flip-book/0a3c983ebc.html?fbclid=IwAR03a5GxEQbhnmysvGByxCje4mQ61WzD8J-KDjCNH2EqoTCmuehQAgFiKyQ#page/16' target='_blank'>[Link]</a> 
+* **<a href='https://heyzine.com/flip-book/0a3c983ebc.html?fbclid=IwAR03a5GxEQbhnmysvGByxCje4mQ61WzD8J-KDjCNH2EqoTCmuehQAgFiKyQ#page/16' target='_blank'>Stealing from your neighbours</a>**  
+  Prof. Sumana Annagiri  
+  2021  
+  Imprint, St. Xavier's College, Mumbai  
 
-* **Ant Affairs**, *PhDs of India*, 2021. <a href='https://phdsofindia.medium.com/ant-affairs-7b473b995c30' target='_blank'>[Link-Medium]</a> | <a href='https://www.facebook.com/114820623548215/posts/249843483379261/?d=n' target='_blank'>[Link-Facebook]</a> | <a href='https://www.quora.com/q/phdsofindia/Ant-affairs' target='_blank'>[Link-Quora]</a> | <a href='https://www.instagram.com/p/CKiLvSZHaO8/?igshid=15dieij48tdwb' target='_blank'>[Link-Instagram]</a>
+* **<a href='https://phdsofindia.medium.com/ant-affairs-7b473b995c30' target='_blank'>Ant Affairs</a>**  
+  2021  
+  PhDs of India 
 
-* **Tricks & risks of thieving ants**, *The Telegraph*, 2018. <a href='https://www.telegraphindia.com/states/west-bengal/tricks-amp-risks-of-thieving-ants/cid/1412016' target='_blank'>[Link]</a>
+* **<a href='https://www.telegraphindia.com/states/west-bengal/tricks-amp-risks-of-thieving-ants/cid/1412016' target='_blank'>Tricks & risks of thieving ants</a>**  
+  2018  
+  The Telegraph 
 
-* **The tricks of thieving ants**, *The Hindu*, 2018. <a href='https://www.thehindu.com/sci-tech/science/the-tricks-of-thieving-ants/article22952945.ece' target='_blank'>[Link]</a>
+* **<a href='https://www.thehindu.com/sci-tech/science/the-tricks-of-thieving-ants/article22952945.ece' target='_blank'>The tricks of thieving ants</a>**  
+  2018  
+  The Hindu 
 
-* **Ants and the science of theft for slavery**, *Mathrubhumi*, 2018. <a href='https://english.mathrubhumi.com/technology/science/ants-and-the-science-of-theft-for-slavery-1.2667863' target='_blank'>[Link-English]</a> | <a href='https://www.mathrubhumi.com/environment/biodiversity/ants-steal-ant-pupae-from-other-colonies-to-enslave-the-young-ones-for-work-study-1.2667772' target='_blank'>[Link-Malayalam]</a> 
+* **<a href='https://english.mathrubhumi.com/technology/science/ants-and-the-science-of-theft-for-slavery-1.2667863' target='_blank'>Ants and the science of theft for slavery</a>**  
+  2018  
+  Mathrubhumi  
 
-* **Researchers from Calcutta have shown first the 'thieves' in Indian ant society**, *Anandabazar Patrika*, 2018. <a href='https://www.anandabazar.com/others/science/researchers-from-calcutta-have-shown-first-the-thieves-in-indian-ant-society-dgtlx-1.802867' target='_blank'>[Link-Bengali]</a>
+* **<a href='https://www.anandabazar.com/others/science/researchers-from-calcutta-have-shown-first-the-thieves-in-indian-ant-society-dgtlx-1.802867' target='_blank'>Researchers from Calcutta have shown first the 'thieves' in Indian ant society</a>**  
+  2018  
+  Anandabazar Patrika 
 
-* **When ant enslaves ant**, *Mint*, 2017. <a href='https://www.livemint.com/Sundayapp/gzW6cUolzPS88SGtBZN4GP/When-ant-enslaves-ant.html' target='_blank'>[Link]</a>
+* **<a href='https://www.livemint.com/Sundayapp/gzW6cUolzPS88SGtBZN4GP/When-ant-enslaves-ant.html' target='_blank'>When ant enslaves ant</a>**  
+  2017  
+  Mint 
 
-* **Scientists study kidnappers in the ant society**, *Research Matters*, 2016. <a href='https://researchmatters.in/article/scientists-study-kidnappers-ant-society' target='_blank'>[Link]</a> 
+* **<a href='https://researchmatters.in/article/scientists-study-kidnappers-ant-society' target='_blank'>Scientists study kidnappers in the ant society</a>**  
+  2016  
+  Research Matters
 
 ----
