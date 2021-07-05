@@ -5,6 +5,7 @@ title: "Academic activities"
 <style>
 body {
 text-align: justify}
+ul li { padding: 0.5em 0em; }
 </style>
 
 ----
